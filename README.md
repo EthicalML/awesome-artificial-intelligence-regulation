@@ -33,8 +33,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 |-|-|-|
 |[Austria 🇦🇹](#austria)|[Brazil 🇧🇷](#brazil)|[Canada 🇨🇦](#canada)|[China 🇨🇳](#china)|
 |[Israel 🇮🇱](#israel)|[European Union 🇪🇺](#european-union)|[India 🇮🇳](#india)|
-|[Mexico 🇲🇽](#mexico)|[Singapore 🇸🇬](#singapore)|[United Arab Emirates 🇦🇪](#united-arab-emirates)|
-|[United States of America 🇺🇸](#united-states-of-america)|[United Kingdom 🇬🇧](#united-kingdom)||
+|[Mexico 🇲🇽](#mexico)|[Singapore 🇸🇬](#singapore)|[Switzerland 🇨🇭](#switzerland)
+|[United Arab Emirates 🇦🇪](#united-arab-emirates)|[United States of America 🇺🇸](#united-states-of-america)|[United Kingdom 🇬🇧](#united-kingdom)||
 
 ### Other Sections
 
@@ -111,6 +111,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 * [Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - The Personal Data Protection Act 2012 (the "Act") sets out the law on data protection in Singapore. Apart from establishing a general data protection regime, the Act also regulates telemarketing practices.
 * [Protection from Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625) - An act to prevent the electronic communication in Singapore of false statements of fact, to suppress support for and counteract the effects of such communication, to safeguard against the use of online accounts for such communication and for information manipulation, to enable measures to be taken to enhance transparency of online political advertisements and for related matters.
+
+## Switzerland
+
+* [New Federal Act on Data Protection (nFADP)](https://www.fedlex.admin.ch/eli/cc/2022/491/en) - The New Federal Act on Data Protection (nFADP) was passed in the Swiss Parliament in 2020 and came into effect from September 1, 2023. It aims to improve the processing of personal data and grant new rights to the people concerned, and also comes with a number of obligations for companies. Every company, Swiss or otherwise, offering goods and services to Swiss citizens and processing their personal data is subject to the nFADP. More highlights on nFADP available [here](https://www.kmu.admin.ch/kmu/en/home/facts-and-trends/digitization/data-protection/new-federal-act-on-data-protection-nfadp.html).
 
 ## United Arab Emirates
 
