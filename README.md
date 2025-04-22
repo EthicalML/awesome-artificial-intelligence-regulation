@@ -188,6 +188,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [FAT Forensics](https://fat-forensics.org/) is a Python toolkit for evaluating Fairness, Accountability and Transparency of Artificial Intelligence systems. It is built on top of SciPy and NumPy, and distributed under the 3-Clause BSD license (new BSD).
 * [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) - This is IBM's toolkit that includes large number of examples, research papers and demos implementing several algorithms that provide insights on fairness in machine learning systems.
 * [Linux Foundation AI Landscape](https://landscape.lfai.foundation/) - The official list of tools in the AI landscape curated by the Linux Foundation, which contains well maintained and used tools and frameworks. 
+* [Open Ethics Data Passport](https://openethics.ai/oedp/) - The Open Ethics Data Passport ([OEDP](https://github.com/OpenEthicsAI/OEDP)) is focused on describing the origins of the models by sheding light on how the training datasets were collected, cleaned, labeled, and used for training of the AI models. 
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) from Avanade
 * [Microsoft Fairlearn](https://fairlearn.org/) - An open-source toolkit for assessing and improving fairness in machine learning products developed by Microsoft 
 * [Microsoft Interpret ML](https://interpret.ml/) - An open-source toolkit for improving explainability/interpretability developed by Microsoft
