@@ -65,7 +65,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ## Canada
 
-* [Artificial Intelligence and Data Act (AIDA)](https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master?tab=readme-ov-file#european-union) - An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts
+* [Artificial Intelligence and Data Act (AIDA)](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) - An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts
 
 ## Brazil
 
