@@ -25,6 +25,8 @@ There has been a large amount of content published which attempts to address the
 
 This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
 
+Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-artificial-intelligence-regulation-search) that helps you quickly navigate through the toolchain.
+
 ## Quick links to sections in this page
 
 ### National Regulation by Economic Area
