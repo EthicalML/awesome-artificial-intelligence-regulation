@@ -188,6 +188,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 # Interactive and Practical Tools
 
 * [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) - The Bias Report is powered by Aequitas, an open-source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
+* [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - An open-source dataset tracking 14 AI displacement mechanisms across 5 categories (Labor, Creative, Cognitive, Social, Institutional) with structured JSON data. Licensed under CC BY 4.0, the dataset provides a taxonomy for understanding how AI systems displace human roles, skills, and decision-making processes.
 * [Awesome Machine Learning Production List](https://github.com/ethicalml/awesome-production-machine-learning) - A list of tools and frameworks that support the design, development and operation of production machine learning systems, currently maintained by The Institute for Ethical AI & Machine Learning.
 * [Cape Python](https://github.com/capeprivacy/cape-python) - Easily apply privacy-enhancing techniques for data science and machine learning tasks in Pandas and Spark. Can be used in conjunction with [Cape Core](https://github.com/capeprivacy/cape) to collaborate on privacy policies and distribute those policies for data projects across teams and organizations.
 * [eXplainability Toolbox](https://ethical.institute/xai.html) - The Institute for Ethical AI & Machine Learning proposal for an extended version of the traditional data science process which focuses on algorithmic bias and explainability, to ensure a baseline of risks around undesired biases can be mitigated.
@@ -227,7 +228,6 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Montreal AI Ethics Institute Weekly AI Ethics newsletter](https://aiethics.substack.com) - A weekly newsletter curated by [Abhishek Gupta](https://atg-abhishek.github.io) and his team at the [Montreal AI Ethics Institute](https://montrealethics.ai) that presents accessible summaries of technical and academic research papers along with commentary on the latest in the domain of AI ethics.
 * [AI Safety Newsletter](https://newsletter.safe.ai/) - A weekly newsletter from the Center for AI Safety providing updates on AI research, policy, and other areas for a non-technical audience.
 * [ML Safety Newsletter](https://newsletter.mlsafety.org/) - A newsletter from the Center for AI Safety providing occasional deep-dives on key results in technical AI research.
-
 
 
 
