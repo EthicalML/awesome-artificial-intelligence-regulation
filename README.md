@@ -202,6 +202,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Microsoft Fairlearn](https://fairlearn.org/) - An open-source toolkit for assessing and improving fairness in machine learning products developed by Microsoft
 * [Microsoft Interpret ML](https://interpret.ml/) - An open-source toolkit for improving explainability/interpretability developed by Microsoft
 * [Alibi](https://github.com/SeldonIO/alibi) - An open-source Python library for machine learning model inspection and interpretation.
+* [AI Atlas Nexus](https://github.com/IBM/ai-atlas-nexus) - An open-source Python toolkit from IBM Research that uses knowledge graphs to unify AI risk taxonomies (NIST AI RMF, OWASP LLM Top 10, EU AI Act, MIT AI Risk Repository) for risk identification, prioritization, and compliance automation. Listed in the [OECD AI Catalogue](https://oecd.ai/en/catalogue/tools/risk-atlas-nexus) and part of the [AI Alliance](https://thealliance.ai/) Trust & Safety initiative.
 
 # Industry standards initiatives
 
