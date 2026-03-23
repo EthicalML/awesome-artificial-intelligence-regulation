@@ -29,12 +29,12 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ### National Regulation by Economic Area
 
-| | | |
-|-|-|-|
+| | | | |
+|-|-|-|-|
 |[Austria 🇦🇹](#austria)|[Brazil 🇧🇷](#brazil)|[Canada 🇨🇦](#canada)|[China 🇨🇳](#china)|
 |[Dubai 🇦🇪](#dubai)|[European Union 🇪🇺](#european-union)|[India 🇮🇳](#india)|[Ireland 🇮🇪](#ireland)|
 |[Israel 🇮🇱](#israel)|[Mexico 🇲🇽](#mexico)|[Singapore 🇸🇬](#singapore)|[Switzerland 🇨🇭](#switzerland)|
-|[United Arab Emirates 🇦🇪](#united-arab-emirates)|[United Kingdom 🇬🇧](#united-kingdom)|[United States of America 🇺🇸](#united-states-of-america)||
+|[United Arab Emirates 🇦🇪](#united-arab-emirates)|[United Kingdom 🇬🇧](#united-kingdom)|[United States of America 🇺🇸](#united-states-of-america)|
 
 ### Other Sections
 
