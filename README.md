@@ -191,6 +191,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Open Ethics Label: AI nutrition labels](https://openethics.ai/label/) - Open Ethics Label ([OEL](https://github.com/OpenEthicsAI/OEL)) is a "nutrition label" for digital products, including AI systems. It brings standard of self-disclosure to digital products to make these products transparent and safe for consumers.
 * [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Alignment, safety & cognitive architecture for autonomous AI agents. Membrane security, epistemic tagger, self-audit, agent discovery, cognitive architecture, collective cognition. Zero dependencies.
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) - from Avanade
+* [NeuralFlow](https://github.com/omergili/neuralflow) - Open-source EU AI Act Article 50 compliance toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI transparency disclosure to websites with a single script tag. Includes CLI checker, npm package (`@neuralflow/ai-act`), and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed.
 
 # Online Courses and Learning Resources
 
