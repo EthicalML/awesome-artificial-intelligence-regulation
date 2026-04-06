@@ -36,6 +36,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 |[Israel 🇮🇱](#israel)|[Mexico 🇲🇽](#mexico)|[Singapore 🇸🇬](#singapore)|[Switzerland 🇨🇭](#switzerland)|
 |[United Arab Emirates 🇦🇪](#united-arab-emirates)|[United Kingdom 🇬🇧](#united-kingdom)|[United States of America 🇺🇸](#united-states-of-america)||
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts with built-in governance: anti-hallucination gates, evidence-based quality checks, credential hygiene, and audit trails for responsible AI agent deployment.
 ### Other Sections
 
 | | | |
