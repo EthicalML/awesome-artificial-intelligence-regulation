@@ -132,6 +132,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ## United States of America
 
+* [AI Laws by State](https://www.ailawsbystate.com) - Free 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits).
 * [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - Legal text for California's consumer privacy act
 * [DoD's Ethical Principles for AI](https://www.diu.mil/responsible-ai-guidelines) - The U.S.A. Department of Defense responsible AI guidelines for tech contractors. The guidelines provide a step-by-step process to follow during the planning, development, and deployment phases of the technical lifecycle.
 * [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
