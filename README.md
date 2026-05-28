@@ -200,6 +200,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Open Ethics Label: AI nutrition labels](https://openethics.ai/label/) - Open Ethics Label ([OEL](https://github.com/OpenEthicsAI/OEL)) is a "nutrition label" for digital products, including AI systems. It brings standard of self-disclosure to digital products to make these products transparent and safe for consumers.
 * [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Alignment, safety & cognitive architecture for autonomous AI agents. Membrane security, epistemic tagger, self-audit, agent discovery, cognitive architecture, collective cognition. Zero dependencies.
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) - from Avanade
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities for AI compliance and transparency, including an EU AI Act compliant AI content disclosure generator (Article 50), AI robots.txt generator, and AI cost calculator. No signup required. Open source.
 
 # Online Courses and Learning Resources
 
