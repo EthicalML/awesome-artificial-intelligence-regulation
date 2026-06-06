@@ -201,6 +201,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Alignment, safety & cognitive architecture for autonomous AI agents. Membrane security, epistemic tagger, self-audit, agent discovery, cognitive architecture, collective cognition. Zero dependencies.
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) - from Avanade
 * [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities for AI compliance and transparency, including an EU AI Act compliant AI content disclosure generator (Article 50), AI robots.txt generator, and AI cost calculator. No signup required. Open source.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for agent trust scoring and identity verification. 4 free preflight tools score any Solana wallet (on-chain activity, transaction patterns, network age, recurring behavior); paid tools return signed trust receipts via HTTP 402 + USDC on Solana. Designed for AI agents that need verifiable counterparty trust before autonomous on-chain transactions. Install: `pip install twzrd-agent-intel`.
 
 # Online Courses and Learning Resources
 
