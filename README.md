@@ -171,6 +171,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Toronto Declaration](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/) - Protecting the right to equality and non-discrimination in machine learning systems by accessnow.
 * [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework.
 * [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/research/publications/understanding-artificial-intelligence-ethics-and-safety) - A guide for the responsible design and implementation of AI systems in the public sector by David Leslie from the [Alan Turing Institute](https://www.turing.ac.uk/).
+* [YRproject](https://yrproject.nl/) - Free trilingual (EN/NL/DE) knowledge base on EU AI regulation with practical self-assessment scans that map which AI Act obligations apply to your organisation.
 
 # Industry standards initiatives
 
