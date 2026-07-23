@@ -209,6 +209,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Signato AI Act Readiness Quiz](https://signato.ai/quiz) - Free 2-minute self-assessment of EU AI Act exposure for HR and compliance teams.
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) - from Avanade
 * [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities for AI compliance and transparency, including an EU AI Act compliant AI content disclosure generator (Article 50), AI robots.txt generator, and AI cost calculator. No signup required. Open source.
+* [Cloudrix EU AI Act Scanner](https://scanner.cloudrix.io) - Free browser-based compliance readiness scanner that classifies AI systems against Annex III risk categories and generates a prioritized gap report. No signup required. Updated for the Digital Omnibus (Dec 2027 high-risk deadline).
 
 # Online Courses and Learning Resources
 
