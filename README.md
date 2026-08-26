@@ -1,1 +1,1 @@
-LOAD:/tmp/ethicalml-readme-new.md
+@/tmp/ethicalml-readme-new.md
