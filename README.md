@@ -1,1 +1,1 @@
-PLACEHOLDER_LOAD_FROM_FILE
+LOAD:/tmp/ethicalml-readme-new.md
