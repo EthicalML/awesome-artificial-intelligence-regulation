@@ -245,6 +245,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 # Research and Industry Newsletters
 
 * [AI Safety Newsletter](https://newsletter.safe.ai/) - A weekly newsletter from the Center for AI Safety providing updates on AI research, policy, and other areas for a non-technical audience.
+* [AI Weekly](https://aiweekly.co/) - Tracks what influential AI experts and organizations are reading and sharing, with ranked coverage of models, funding, policy and research.
 * [Import AI](https://jack-clark.net/) - A newsletter curated by OpenAI's Jack Clark which curates the most resent and relevant AI research, as well as relevant societal issues that intersect with technical AI research.
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [ML Safety Newsletter](https://newsletter.mlsafety.org/) - A newsletter from the Center for AI Safety providing occasional deep-dives on key results in technical AI research.
