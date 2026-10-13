@@ -149,6 +149,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 * [The White House Executive Order in AI](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) - The USA Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence
+* [U.S. AI Policy Tracker (USASI)](https://unitedstatesofamericasuperintelligence.com/policy/) - Independent tracker of 30 U.S. federal AI laws, executive orders, OMB memoranda, standards, and plans, newest first. Each entry summarizes what the document says in its own terms, gives its current status (in effect, revoked, or superseded) from official sources, and links to the official text.
 
 # High Level Frameworks and Principles
 
