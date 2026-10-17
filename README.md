@@ -224,6 +224,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 # Online Courses and Learning Resources
 
+* [AI Governance Certifications Compared](https://aicoursecheck.com/certifications/ai-governance/) - Comparison by AI Course Check of the IAPP AIGP and ISACA AI governance certifications, covering who can take each exam, price and validity, with links to the issuers' own pages.
 * [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai) - Free course by the University of Montreal and IVADO (via edX) about the discriminatory effects of algorithmic decision-making and responsible machine learning (institutional and technical strategies to identify and address bias).
 * [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan (via Coursera) that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
 * [Intro to AI ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) - Free course by Kaggle introducing the base concepts of ethics in AI and how to mitigate related problems.
