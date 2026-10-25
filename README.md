@@ -223,6 +223,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Signato AI Act Readiness Quiz](https://signato.ai/quiz) - Free 2-minute self-assessment of EU AI Act exposure for HR and compliance teams.
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) - from Avanade
 * [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities for AI compliance and transparency, including an EU AI Act compliant AI content disclosure generator (Article 50), AI robots.txt generator, and AI cost calculator. No signup required. Open source.
+* [Where Do My Prompts Go?](https://rebuildlab.github.io/where-do-my-prompts-go/) - A free, sourced tracker of how 25 AI tools and APIs handle user data: training on prompts, default retention, zero data retention (ZDR), abuse-monitoring exceptions, data residency, SOC 2 / ISO 27001 and HIPAA BAAs. Every value quotes and links the vendor's own policy page with a check date, and fields no official page states are marked "unverified". Open data in JSON and CSV; a nightly job re-fetches the sources. Not legal advice.
 
 # Online Courses and Learning Resources
 
