@@ -138,6 +138,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ## United States of America
 
+* [ABA Formal Opinion 512, Explained](https://aiagentsearch.ai/aba-formal-opinion-512-explained.html) - Plain-language guide by AIAgentSearch.ai to the American Bar Association's 2024 ethics opinion on lawyers' use of generative AI, rule by rule (competence, confidentiality, client communication, candor to the court, supervision and fees), with what it means for a firm choosing a legal AI tool and what the opinion leaves unsettled.
 * [AI Laws by State](https://www.ailawsbystate.com) - Free 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits).
 * [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - Legal text for California's consumer privacy act
 * [DoD's Ethical Principles for AI](https://www.diu.mil/responsible-ai-guidelines) - The U.S.A. Department of Defense responsible AI guidelines for tech contractors. The guidelines provide a step-by-step process to follow during the planning, development, and deployment phases of the technical lifecycle.
