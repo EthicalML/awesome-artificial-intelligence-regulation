@@ -232,6 +232,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities for AI compliance and transparency, including an EU AI Act compliant AI content disclosure generator (Article 50), AI robots.txt generator, and AI cost calculator. No signup required. Open source.
 * [TrustHawk](https://trusthawk.ai) - Free public ratings of 150+ AI companies on safety, transparency, security and privacy, built from verified public sources, with every score linked to its source.
 * [Where Do My Prompts Go?](https://rebuildlab.github.io/where-do-my-prompts-go/) - A free, sourced tracker of how 25 AI tools and APIs handle user data: training on prompts, default retention, zero data retention (ZDR), abuse-monitoring exceptions, data residency, SOC 2 / ISO 27001 and HIPAA BAAs. Every value quotes and links the vendor's own policy page with a check date, and fields no official page states are marked "unverified". Open data in JSON and CSV; a nightly job re-fetches the sources. Not legal advice.
+* [ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) - An open-source (AGPL-3.0) tamper-evident audit trail for AI agents: every agent step is hash-chained and linked to the step that caused it, supporting the record-keeping and traceability obligations of EU AI Act Article 12. Self-hosted or managed cloud.
 
 # Online Courses and Learning Resources
 
