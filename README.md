@@ -246,6 +246,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 # Processes and Checklists
 
+* [AI Governance Templates](https://github.com/nosistech/governance-templates) - Free AI acceptable-use policy template (CC BY 4.0) mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, with three industry examples.
 * [AI RFX Procurement Framework](https://ethical.institute/rfx.html) - A procurement framework for evaluating the maturity of machine learning systems put together by cross functional teams of academics, industry practitioners and technical individuals at The Institute for Ethical AI & Machine Learning to empower industry practitioners looking to procure machine learning suppliers.
 * [Checklist for data science projects](http://deon.drivendata.org/) - Deon by DrivenData is a command line tool that allows you to easily add an ethics checklist to your data science projects.
 * [Designing Ethical AI Experiences Checklist and Agreement](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=636620) - document to guide the development of accountable, de-risked, respectful, secure, honest, and usable artificial intelligence (AI) systems with a diverse team aligned on shared ethics. Carnegie Mellon University, Software Engineering Institute.
