@@ -88,6 +88,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## European Union
 
 * [Annex III Deep Classifier](https://eucomplyhub.com/annex3) - AI-powered classifier mapping product features to EU AI Act Annex III high-risk categories (items 1-8) plus Article 50 transparency obligations, with Article 26(6) deployer audit-trail considerations.
+* [Cybersecurity Database AI Act guide](https://www.cybersecuritydatabase.org/en/guides/ai-act/) - Free guide to the EU AI Act from the cybersecurity side: key dates including the Digital Omnibus changes, high-risk obligations, serious incident reporting, and how the AI Act interacts with the Cyber Resilience Act, NIS 2 and DORA, with links to the official texts.
 * [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - European Commission document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG).
 * [EU AI Act](https://artificialintelligenceact.eu/) - The EU Artificial Intelligence (AI) Act is a legal framework that regulates AI in the European Union; this was the first regulation implemented on AI ([overview](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)).
 * [EU AI Act + ISO 42001 + NIST AI RMF Crosswalk](https://eucomplyhub.com/crosswalk) - Deterministic mapping between EU AI Act Articles, ISO/IEC 42001:2023 Clauses, NIST AI RMF Functions, Colorado SB 24-205, and GDPR Article 22 — triple-framework alignment for compliance teams.
