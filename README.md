@@ -70,6 +70,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## Canada
 
 * [Artificial Intelligence and Data Act (AIDA)](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) - An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts
+* [OSFI Guideline E-23 – Model Risk Management (2027)](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) - The Office of the Superintendent of Financial Institutions' guideline for federally regulated banks and insurers, in effect 1 May 2027; its definition of a model covers AI and machine learning methods, and it sets expectations for a model inventory, risk rating, independent review, approval and monitoring.
+* [OSFI Technology Risk Bulletin: Generative and Agentic Artificial Intelligence](https://www.osfi-bsif.gc.ca/en/risks/technology-cyber-risk-management/technology-risk-bulletin/generative-agentic-artificial-intelligence-implications-technology-cyber-security-operational) - Sound practices (July 2026) for Canadian financial institutions on governing generative AI and AI agents, including unique non-human identities for agents, tool allow-lists, approval checkpoints for high-impact actions, and logging and review of agent activity.
 
 ## China
 
