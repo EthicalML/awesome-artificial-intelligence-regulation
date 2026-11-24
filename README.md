@@ -252,6 +252,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 # Processes and Checklists
 
+* [AI Acceptable Use Policy Template](https://jakelawrence.xyz/research/ai-acceptable-use) - Plain-language, fifteen-rule template for small governments and nonprofits, with a no-code way to follow each rule. Free, CC BY 4.0.
 * [AI Governance Templates](https://github.com/nosistech/governance-templates) - Four templates for small and mid-size companies: AI acceptable-use policy, AI tool register, AI vendor questionnaire and AI incident response playbook. Word and Excel, CC BY 4.0.
 * [AI RFX Procurement Framework](https://ethical.institute/rfx.html) - A procurement framework for evaluating the maturity of machine learning systems put together by cross functional teams of academics, industry practitioners and technical individuals at The Institute for Ethical AI & Machine Learning to empower industry practitioners looking to procure machine learning suppliers.
 * [AIMS Starter Kit for ISO/IEC 42001:2023](https://github.com/brivellis/aims-starter-kit-iso42001) - Free, editable Word and Excel templates for an AI management system under ISO/IEC 42001:2023: AI system inventory, AI risk and impact assessment, a Statement of Applicability for all 38 Annex A controls, an internal audit and management review pack, and a crosswalk to the NIST AI RMF, with a fictional worked example. No sign-up.
